@@ -1,0 +1,7 @@
+Classification
+Instructions:
+1. download folder "Malaria Classifier" dari drive
+2. buka vscode, create virtual environment (venv), bsa cari di gugel caranya
+3. kl udah buat venv, di terminal ketik pip install -r requirements.txt
+4. Buka detection_program_v2.py
+5. run script
